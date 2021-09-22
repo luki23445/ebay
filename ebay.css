@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+#srodek-g 
+{
+	background-color: #11335F;
+	width: 94.9%;
+	float: left;
+	height: 428px;
+	margin-left: 24px;
+}
+
+#lewy 
+{
+	background-color: #3A70B5;
+	width: 30%;
+	float: left;
+	height:200px;
+	margin-left: 24px;
+}
+
+#prawy-g 
+{
+   background-color: #5A8AC8;
+   width: 64.9%;
+   float: left;
+   height:100px;
+}
+
+#prawy-d 
+{
+   background-color: #70AEFF;
+   width: 64.9%;
+   float: left;
+   height:100px;
+}
+
+#srodek-d 
+{
+	background-color: #AAC7EC;
+	width: 100%;
+	float: left;
+	height: 280px;
+}
